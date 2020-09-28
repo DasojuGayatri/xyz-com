@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h1>Welcome to xyz.com</h1>
-<h2>Hope you all understood the  First CICD Project</h2>
+<h2>this is gaiyatri</h2>
 </body>
 </html>
